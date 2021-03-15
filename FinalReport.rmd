@@ -80,6 +80,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+In the inferential results, we can see that there is a significant difference between the P-value in the Pearson's Chi-squared test which is p-value = 0.01098. While in the Fisher's Exact Test for Count Data the p-value = 0.00905. The Fisher exact test tells me that theres is something significant going on, but I still don't know what that is.
+
+
 #2X2 TEST
 ```{r}
 chisq.test(table2)
