@@ -68,6 +68,8 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+My observation of the numerical results are 80% of the Black population do not believe in the BIGBANG theory. 55% of the Other race do believe in the BIGBANG theory. White people have a 50/50 belief of the theory. There is a big difference between Black peoples belief compared to the rest of the groups belief in the BIGBANG theory, while there is not that much difference between the Others and Whites belief in the theory.
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
