@@ -170,4 +170,6 @@ fisherXY(GSS$RACE,GSS$BIGBANG,printAll = T)
 
 # Discussion and Conclusion
 
+In conclusion, the results of the 2x2 test was ran to see each of the RACE's beliefs on the BIGBANG theory and you can see that there is a significant difference between the Blacks and the other RACES.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
