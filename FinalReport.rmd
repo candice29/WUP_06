@@ -27,6 +27,8 @@ If not, then whose view differs from whom??
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+I first made sure that the character variables were turned into factor variables. I then looked into a fisher exact test and a Pearson exact test to find out what the beliefs are between the different races in the BIGBANG theory.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
